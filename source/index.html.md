@@ -17,7 +17,7 @@ This document is fairly large so make sure you use the document menu and search 
 
 The tutorial and reference guide in this document are tailored specifically for building chat assistants and not for usage of the tightly integrated chat.  Some chat information can be found in the FAQ.  Tutorials and reference guide documentation will be arriving soon for the chat.  
 
-If you need programmatic access to your chat and chatbot data see our [API](https://chatrhub.com/api)
+If you need programmatic access to your chat and chatbot data see our [API](https://chatrhub.com/developers/api/index.html)
 
 # Tutorials
 
